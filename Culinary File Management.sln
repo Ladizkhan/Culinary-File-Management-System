@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Culinary File Management", "Culinary File Management.csproj", "{C90254CE-C94D-472E-996B-EA692760C505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90254CE-C94D-472E-996B-EA692760C505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90254CE-C94D-472E-996B-EA692760C505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90254CE-C94D-472E-996B-EA692760C505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90254CE-C94D-472E-996B-EA692760C505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8B10CA-4AD8-471F-B954-8BE7CF8F8627}
+	EndGlobalSection
+EndGlobal
